@@ -17,14 +17,6 @@ This is a simple console-based ATM Machine simulation written in Java using obje
 - Java
 - Eclipse IDE
 
-## Project Structure
-
-ATMMachine/
-├── Main.java // Entry point
-├── ATM.java // Core logic: menu, account management
-└── User.java // Holds user data and actions
-
-
 ##  How to Run
 
 1. Open project in Eclipse.
